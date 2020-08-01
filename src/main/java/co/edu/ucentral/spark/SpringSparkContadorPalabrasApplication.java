@@ -1,13 +1,13 @@
-package com.technocratsid;
+package co.edu.ucentral.spark;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringSparkWordCountApplication {
+public class SpringSparkContadorPalabrasApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringSparkWordCountApplication.class, args);
+		SpringApplication.run(SpringSparkContadorPalabrasApplication.class, args);
 	}
 
 }

@@ -9,10 +9,10 @@
 		<version>2.1.2.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.technocratsid.spring.spark</groupId>
+	<groupId>co.edu.ucentral.spark</groupId>
 	<artifactId>spring-spark-word-count</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Spring Spark Word Count</name>
+	<name>Contador de palabras con Spring y Spark</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
