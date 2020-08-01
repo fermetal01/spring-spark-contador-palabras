@@ -16,4 +16,4 @@ Para ejecutar el proyecto puedes usar
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia Apache License, Version 2.0 - mira el archivo [LICENSE.md](LICENSE.md) para detalles
